@@ -1,9 +1,0 @@
-plugins {
-    id "com.android.application" version '9.2.1' apply false
-}
-
-tasks.named("updateDaemonJvm") {
-    // Android Studio already has a local JetBrains Runtime, so the project does not need
-    // Gradle to resolve JVM download URLs through the network during sync.
-    toolchainPlatforms = []
-}
