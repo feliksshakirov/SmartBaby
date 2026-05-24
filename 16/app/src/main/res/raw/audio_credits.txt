@@ -1,0 +1,23 @@
+Animal sounds used in the "Animals" game:
+
+Cat: Meow.ogg, Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Meow.ogg
+
+Dog: Barking of a dog, Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Barking_of_a_dog.ogg
+
+Cow: Cow moo, Orange Free Sounds
+https://www.orangefreesounds.com/cow-moo/
+
+Duck: Duck quack sound, Orange Free Sounds
+https://www.orangefreesounds.com/duck-quack-sound/
+
+Lion: Lion roar sound effect, Orange Free Sounds
+https://orangefreesounds.com/lion-roar-sound-effect/
+
+Sheep: Bleating sheep, Orange Free Sounds
+https://orangefreesounds.com/bleating-sheep/
+
+Generated local UI effects:
+balloon_pop.wav: procedural short pop sound, generated offline for this project.
+firework_boom.wav: procedural firework boom/crackle sound, generated offline for this project.
